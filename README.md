@@ -94,14 +94,3 @@ If you like this project, **give it a star** ⭐ and share your feedback!
 
 This project is open source and available under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you'd like to:
-- Add visuals (GIFs/screenshots of the site)
-- Include GitHub stats/shields
-- Write a blog/article-style walkthrough for this project
-
-I'd be happy to help!
-```
