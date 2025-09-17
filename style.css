@@ -211,10 +211,9 @@ p{
 }
 .img-box img{
     position: absolute;
-    left: 1%;
     top: 1rem;
     display: block;
-    width: 80%;
+    width: 100%;
     object-fit: cover;
 }
 .home-img img{
@@ -610,4 +609,5 @@ p{
     .tab-list h3{
         font-size: 2.3rem;
     }
+
 }
