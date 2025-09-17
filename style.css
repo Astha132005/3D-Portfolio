@@ -214,10 +214,8 @@ p{
     top: 1rem;
     display: block;
     width: 100%;
+    height:100%
     object-fit: cover;
-}
-.home-img img{
-    left: 19%;
 }
 .section:nth-child(even){
     background: var(--second-bg-color);
@@ -611,3 +609,4 @@ p{
     }
 
 }
+
